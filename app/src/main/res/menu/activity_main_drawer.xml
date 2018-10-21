@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none"
+
+        >
+        <item
+            android:id="@+id/start"
+            android:icon="@drawable/ic_local_taxi_grey_24dp"
+            android:title="@string/nav_start" />
+        <item
+            android:id="@+id/end"
+            android:icon="@drawable/ic_local_taxi_grey_24dp"
+            android:title="@string/nav_end" />
+
+
+
+
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_aboutus_grey_24dp"
+            android:title="@string/nav_about" />
+
+    </group>
+
+</menu>

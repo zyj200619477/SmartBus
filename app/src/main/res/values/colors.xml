@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#CDDC39</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="hint_gray">#E0E0E0</color>
+    <color name="colorGreyBG">#F1F1F1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#22BA91</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorSimGreen">#e2f4dd</color>
+    <color name="primary_light">#FFE0B2</color>
+    <color name="primary_text">#212121</color>
+    <color name="icons">#212121</color>
+    <!--以下都是老的配色-->
+    <color name="backgound_gray">#F0F0F0</color>
+    <color name="button_gray">#D0D0D0</color>
+    <color name="button_gray_press">#A0A0A0</color>
+
+    <color name="text_gray">#AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#E1E1E1</color>
+    <color name="text_black">#000000</color>
+    <color name="blue">#440075BD</color>
+    <color name="orange">#FF9A66</color>
+    <color name="homepage_order_color">#FE8282</color>
+    <color name="homepage_income_color">#ECC100</color>
+    <color name="slide_text_gray">#C1C1C1</color>
+    <color name="line_color">#C1C1C1</color>
+    <color name="order_details_text_color">#888</color>
+    <color name="red">#ED1C24</color>
+    <color name="top_blue">#3DC5EC</color>
+    <color name="top_orange">#ffba00</color>
+    <color name="apply_button">#a0a0a0</color>
+    <color name="hasapplied_button">#c0c0c0</color>
+    <color name="main_titleColor">#46b9f1</color>
+    <color name="login">#999</color>
+    <color name="fgrey">#D05D5D5D</color>
+    <color name="fblue">#3dc5ec</color>
+    <color name="forange"> #ffba00</color>
+
+    <color name="tabcolor">#fff600</color>
+
+    <color name="buttonGreen">#22BA91</color>
+    <color name="colorDivider">#999999</color>
+
+    <color name="materialdialog_title">#FF9800</color>
+    <color name="materialdialog_content">#757575</color>
+    <color name="materialdialog_ok">#FF9800</color>
+    <color name="materialdialog_cancel">#AAAAAA</color>
+    <color name="materialdialog_item">#FF9800</color>
+
+
+
+
+</resources>
